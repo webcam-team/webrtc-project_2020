@@ -3,7 +3,7 @@
  
  
  
- 사용 플랫폼 - Node.js
+ 사용 플랫폼 - Node.js(express, socket.io, fs, os, https ...)
  
  
  
